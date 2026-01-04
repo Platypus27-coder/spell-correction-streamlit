@@ -38,6 +38,7 @@ where `m` and `n` are the lengths of the two words.
 ---
 
 ## ⚙️ Installation
+```
 spell-correction-streamlit/
 │
 ├── app.py # Main Streamlit application
