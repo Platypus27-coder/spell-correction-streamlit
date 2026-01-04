@@ -46,5 +46,7 @@ spell-correction-streamlit/
 ├── README.md # Project documentation
 ### 1️⃣ Clone the repository
 
-```bash
+```
+Run the Application:
+  streamlit run levenshtein_distance.py
 
