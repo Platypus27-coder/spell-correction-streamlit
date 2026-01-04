@@ -48,6 +48,7 @@ spell-correction-streamlit/
 
 ```
 ## Install dependencies and Run the Application:
-pip install streamlit.
-streamlit run levenshtein_distance.py.
+pip install streamlit
+
+streamlit run levenshtein_distance.py
 
